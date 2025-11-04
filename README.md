@@ -1,3 +1,4 @@
 # Salary-Dashboard-Excel
-Creating a dashboard using Excel  
+Dashboard using Excel comparing salaries of different jobs    
+
 ![Salary_Dashboard_Image.png](Salary_Dashboard_Image.png)
