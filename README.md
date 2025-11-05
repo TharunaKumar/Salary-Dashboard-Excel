@@ -59,5 +59,6 @@ IF(
 
 Background Table
 
-![1_Salary_Dashboard_Screenshot1.png](/Image/Median_Salary_Table.png)
+<img src="/Image/Median_Salary_Table.png" width="200" height="400" alt="Median Salary Table">
+
 
