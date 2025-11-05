@@ -12,12 +12,12 @@ The following Excel skills were utilized for analysis:
 - **Formulas and Functions**
 - **Data Validation**
 
-### DASHBOARD FILE
+## DASHBOARD FILE
 My final dashboard is in [Salary_Dashboard.xlsx](Salary_Dashboard.xlsx).  
 
 ## DASHBOARD BUILD
 
-###  Charts
+### Charts
 
 #### Data Science Job Salaries - Bar Chart
 
@@ -28,7 +28,7 @@ My final dashboard is in [Salary_Dashboard.xlsx](Salary_Dashboard.xlsx).
 - **Data Organization:** Sorted job titles by descending salary for improved readability.
 - **Insights:** This identifies salary trends of different roles. Senior roles and Engineers are paid more Analyst roles.
 
-  ####  Country Median Salaries - Map Chart
+#### Country Median Salaries - Map Chart
 
 ![1_Salary_Dashboard_Chart2.png](/Image/Map_Chart.png)
 
@@ -37,7 +37,7 @@ My final dashboard is in [Salary_Dashboard.xlsx](Salary_Dashboard.xlsx).
 - **Data Representation:** Plotted median salary for each country with available data.
 - **Insights:** Visualises global salary disparities and highlights high/low salary regions.
 
-  ###  Formulas and Functions
+### Formulas and Functions
 
 #### Median Salary by Job Titles
 
