@@ -21,9 +21,18 @@ My final dashboard is in [Salary_Dashboard.xlsx](Salary_Dashboard.xlsx).
 
 #### Data Science Job Salaries - Bar Chart
 
-<img src="/Image/Bar_Chart.png" width="850" height="550" alt="Salary Dashboard Chart1">
+<img src="/Image/Bar_Chart.png" width="550" height="350" alt="Salary Dashboard Chart1">
 
 - **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
 - **Design Choice:** Horizontal bar chart for a visual comparison of median salaries.
 - **Data Organization:** Sorted job titles by descending salary for improved readability.
 - **Insights:** This identifies salary trends of different roles. Senior roles and Engineers are paid more Analyst roles.
+
+  ####  Country Median Salaries - Map Chart
+
+![1_Salary_Dashboard_Chart2.png](/Image/Map_Chart.png)
+
+- **Excel Features:** Utilized Excel's map chart feature to plot median salaries globally.
+- **Design Choice:** Colour-coded map to visually differentiate salary levels across regions.
+- **Data Representation:** Plotted median salary for each country with available data.
+- **Insights:** Visualises global salary disparities and highlights high/low salary regions.
