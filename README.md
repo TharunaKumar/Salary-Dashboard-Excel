@@ -59,6 +59,18 @@ IF(
 
 Background Table
 
-<img src="/Image/Median_Salary_Table.png" width="200" height="400" alt="Median Salary Table">
+<img src="/Image/Median_Salary_Table.png" width="200" height="400" alt="Median Salary Table">  
+
+#### Count of Job Schedule Type
+
+```
+=FILTER(J2#,(NOT(ISNUMBER(SEARCH("and",J2#))+ISNUMBER(SEARCH(",",J2#))))*(J2#<>0))
+```
+
+- **Unique List Generation:** This Excel formula employs the `FILTER()` function to exclude entries containing "and" or commas, and omit zero values.
+
+Background Table
+
+<img src="/Image/Job_Type_Table.png" width="200" height="400" alt="Median Salary Table"> 
 
 
