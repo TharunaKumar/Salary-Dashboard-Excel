@@ -17,7 +17,7 @@ My final dashboard is in [Salary_Dashboard.xlsx](Salary_Dashboard.xlsx).
 
 ## DASHBOARD BUILD
 
-### Charts
+### CHARTS
 
 #### Data Science Job Salaries - Bar Chart
 
@@ -37,7 +37,7 @@ My final dashboard is in [Salary_Dashboard.xlsx](Salary_Dashboard.xlsx).
 - **Data Representation:** Plotted median salary for each country with available data.
 - **Insights:** Visualises global salary disparities and highlights high/low salary regions.
 
-### Formulas and Functions
+### FORMULAS AND FUNCTIONS
 
 #### Median Salary by Job Titles
 
@@ -71,6 +71,19 @@ Background Table
 
 Background Table
 
-<img src="/Image/Job_Type_Table.png" width="200" height="400" alt="Median Salary Table"> 
+<img src="/Image/Job_Type_Table.png" width="200" height="400" alt="Median Salary Table">   
+
+### DATA VALIDATION
+
+#### Filtered List
+
+- **Enhanced Data Validation:** Implementing the filtered list as a data validation rule under the `Job Title`, `Country`, and `Type` option in the Data tab ensures:
+    - User input is restricted to predefined, validated schedule types
+    - Incorrect or inconsistent entries are prevented
+    - Usability of the dashboard is enhanced
+
+## CONCLUSION
+
+This dashboard to showcases insights into salary trends across various data-related job titles. This dashboard allows users to make informed decisions about their career paths and explores the functionalities to understand how location and job type influence salaries. 
 
 
